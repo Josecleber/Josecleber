@@ -1,10 +1,9 @@
 # 👋 Olá! Eu sou o José Cleber Alves da Cruz Mendes
 
 🎓 Estudante de Engenharia da Computação na Uniube – Uberlândia/MG  
-🧠 Atualmente estudando: Redes de Computadores, Inteligência Artificial, Eletrônica Analógica e Estruturas de Dados 
-💡 Apaixonado por tecnologia, aprendizado constante e desafios práticos  
+🧠 Atualmente estudando: Redes de Computadores, Inteligência Artificial, Eletrônica Analógica e Estruturas de Dados   
 
-📈 Atualmente estou buscando minha primeira oportunidade na área de tecnologia  
+📈 Estou buscando minha primeira oportunidade na área de tecnologia  
 📫 Contato: *josecleber0910@gmail.com*  
 
 ---
@@ -12,6 +11,8 @@
 ## 📘 Conhecimentos adquiridos na graduação
 
 - **Cálculo Diferencial** - Derivadas, limites, funções, aplicações em curvas e taxas de variação
+- **Expressão Gráfica** - Leitura e criação de desenhos técnicos, cortes e perspectivas, projeções ortogonais e interpretação de esquemas
+- **Química Tecnológica** - Propriedades dos materiais, ligações químicas, reações, corrosão e condutividade | Aplicações em eletrônica e materiais semicondutores
 - **Álgebra Linear e Geometria Analítica** - Matrizes, determinantes, vetores, espaços vetoriais e aplicações em computação gráfica
 - **Algoritmo e Estrutura de Dados** - Lógica de programação, tipos de dados, vetores, recursividade, busca e ordenação | C, fluxogramas, pseudocódigo
 - **Informática Aplicada** - Sistemas operacionais, Word, Excel, PowerPoint e introdução à internet | Pacote Office, LibreOffice
@@ -23,6 +24,8 @@
 - **Física** - Mecânica, força, energia, cinemática e dinâmica | Simulações e problemas aplicados
 - **Cálculo Aplicado** - Aplicações práticas de derivadas e integrais na engenharia
 - **Linguagem e Técnicas de Programação** - Estruturas de decisão e repetição, modularização e boas práticas | C e Java
+- **Mecânica dos Sólidos** - Esforços, tensão, deformações e resistência de materiais
+- **Tecnologia e Ciência dos Materiais** - Estrutura cristalina, defeitos, ligas metálicas, polímeros e cerâmicas | Base para eletrônica, microprocessadores e sensores
 - **Programação Orientada a Objetos** - Encapsulamento, herança, polimorfismo, classes abstratas e interfaces | Java, IntelliJ IDEA
 - **Estatística Aplicada** - Média, desvio padrão, variância, distribuições e análise de dados
 - **Laboratório de Programação Competitiva** - Algoritmos eficientes, tempo de execução e raciocínio lógico | Python, desafios estilo Maratona
