@@ -38,4 +38,10 @@
 
 ---
 
+## 🎯 Objetivo Profissional
+
+Busco uma oportunidade para aplicar meus conhecimentos, visando sempre o crescimento profissional e a contribuição para equipes inovadoras.
+
+---
+
 *Obrigado por visitar meu perfil! Bora codar e crescer juntos 🚀*
