@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o José Cleber Alves da Cruz Mendes
 
 🎓 Estudante de Engenharia da Computação na Uniube – Uberlândia/MG  
-🧠 Atualmente estudando: Redes de Computadores, Inteligência Artificial, Eletrônica Analógica e Estruturas de Dados
+🧠 Atualmente estudando: Redes de Computadores, Inteligência Artificial, Eletrônica Analógica e Estruturas de Dados 
 💡 Apaixonado por tecnologia, aprendizado constante e desafios práticos  
 
 📈 Atualmente estou buscando minha primeira oportunidade na área de tecnologia  
