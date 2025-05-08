@@ -4,7 +4,7 @@
 🧠 Atualmente estudando: Redes de Computadores, Inteligência Artificial, Eletrônica Analógica e Estruturas de Dados   
 
 📈 Estou buscando minha primeira oportunidade na área de tecnologia  
-📫 Contato: *josecleber0910@gmail.com*  *34-98443-4503*
+📫 Contato: *josecleber0910@gmail.com*  
 
 ---
 
